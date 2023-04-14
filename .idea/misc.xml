@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/KIMBS/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/background_image.xml" value="0.446" />
         <entry key="..\:/Users/KIMBS/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/background_input.xml" value="0.462" />
+        <entry key="..\:/Users/KIMBS/AndroidStudioProjects/ChatApp/app/src/main/res/layout/activity_main.xml" value="0.5536458333333333" />
         <entry key="..\:/Users/KIMBS/AndroidStudioProjects/ChatApp/app/src/main/res/layout/activity_sign_in.xml" value="0.34057971014492755" />
         <entry key="..\:/Users/KIMBS/AndroidStudioProjects/ChatApp/app/src/main/res/layout/activity_sign_up.xml" value="0.34057971014492755" />
       </map>
